@@ -24,3 +24,6 @@ Thumbs.db
 # Env
 .env
 .env.local
+
+# Dev-only (agent plans, notes)
+.dev/
